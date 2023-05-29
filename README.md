@@ -23,15 +23,15 @@
 
 ## ⏳ 프로젝트 설명
 - About 섹션에 이력서 및 자기소개서 다운로드 기능 추가(22.10.13)
-- 
+ 
 - 이클립스 IDE (STS) 사용 
-- 
+ 
 - JSP / JQuery / Javascript 사용 
-- 
+ 
 - ORACLE DB 데이터베이스 사용 
-- 
+ 
 - 프로젝트 기능
-- 
+ 
   - 여행상품 관련 웹사이트 Clone 프로젝트 작성 (참고 사이트 : 트립에이드)
 
   - 유/무료 부트스트랩 기반 템플릿 적용하여 UI 작성 
@@ -45,8 +45,22 @@
 
 ## 🔗 프로젝트 상세보기 
 
-링크 : 
+<div align="center">
+ 
+![1](https://github.com/ks1026/portfolio/assets/109998789/19aabcba-e98a-40f4-9b7d-0641c17d1518)
 
+![2](https://github.com/ks1026/portfolio/assets/109998789/dd2d4a27-fa05-48c8-b245-746df11b87e6)
+
+![3](https://github.com/ks1026/portfolio/assets/109998789/10032329-12c8-42a3-a14d-60dbcf6ef11a)
+
+![4](https://github.com/ks1026/portfolio/assets/109998789/171bb7b2-5fb7-4a1e-94cc-9e4a057490a6)
+
+![5](https://github.com/ks1026/portfolio/assets/109998789/c02651e2-6945-4352-ab91-5fa6523c426b)
+
+![6](https://github.com/ks1026/portfolio/assets/109998789/7b30a807-4d5f-4674-9448-5727f76adf15)
+
+![7](https://github.com/ks1026/portfolio/assets/109998789/f74cfdc9-bedd-4102-a6cb-9e1888f7b9cf)
+</div>
 
 
 
