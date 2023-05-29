@@ -1,0 +1,22 @@
+
+
+.btnClick {
+	cursor: pointer;
+}
+
+
+.leftPanel {
+	width: 15%; 
+	float: left; 
+	text-align: center;
+	padding-top: 45px;
+	border-right: 1px solid gray;
+}
+
+.rightPanel {
+	width: 80%;
+	float: right;
+	padding-top: 20px;
+    padding-left: 21px;
+    margin-right:10px;
+}
